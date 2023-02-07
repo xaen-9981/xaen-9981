@@ -1,6 +1,6 @@
 <samp>
   <h1>
-    hey, i'am xaen
+    hey there, i'am xaen! :]
   </h1>
     i'am a 17 years old front-end devloper who is currently interested in learning UI/UX designing.
   <br>
